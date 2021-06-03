@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Hartfordshrie-men [sic]. Being about the number of two thousand, already lodged in London; comming to the Parliament house for a redresse of their grievances: which they hope they shall be eased of, aswell [sic] as other parts of the kingdome. Comming, with as faithfull and loyall hearts to their king and country, as any shire of England whatsoever.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86797</idno><idno type="EEBO-CITATION">99896251</idno>
+  <idno type="VID">153991</idno>
+  <idno type="EEBO-PROQUEST">2240917895</idno>
+  
+            <idno type="STC">Wing H3512</idno>
+            <idno type="STC">ESTC R230328</idno>
+            <idno type="PROQUEST">99896251</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896251e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153991)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2392:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Hartfordshrie-men [sic]. Being about the number of two thousand, already lodged in London; comming to the Parliament house for a redresse of their grievances: which they hope they shall be eased of, aswell [sic] as other parts of the kingdome. Comming, with as faithfull and loyall hearts to their king and country, as any shire of England whatsoever.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for John Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Final leaf blank except for coat of arms on verso.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Hertfordshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153991:1"/>
+            <p>THE HVMBLE PETITION OF THE HARTFORDSHRIE-MEN. BEING About the number of two thousand, already lodged in <hi>London;</hi> comming to the Par<g ref="char:EOLhyphen"/>liament House. for a redresse of their Grie<g ref="char:EOLhyphen"/>vances: Which they hope they shall be eased of, aswell as other parts of the <hi>Kingdome. COMMING,</hi> With as faithfull and loyall hearts to their King and Country, as any Shire of <hi>England</hi> whatsoever.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for JOHN GREENSMITH. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:153991:2"/>
+            <pb facs="tcp:153991:2"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>ornament showing angels holding elements of royal blazon or coat of arms</figDesc>
+                  <p>
+                     <label>C R</label>
+                  </p>
+               </figure>
+            </head>
+            <head>THE HƲMBLE PETITION Of the inhabitants of the County of <hi>Hartfordshire.</hi>
+            </head>
+            <opener>HƲMBLY SHEWETH,</opener>
+            <p>THat whereas many other shires to the checking of our obedience, have stept before us to prostrate themselves and their grievances to your all-seeing considera<g ref="char:EOLhyphen"/>tions: witnes the late Petitions we have heard, and since we now are come to Town, have seen, and presented to your view, as those of <hi>Buckingham shire, and Essex,</hi> &amp;c.</p>
+            <p>May ye also be pleased, to except ours, the true and loyall subjects of the King and Coun<g ref="char:EOLhyphen"/>try. Wee men of <hi>Hartfordshire,</hi> what other reasons might have provoked our Neighbor brethren to leave their families, habitations, and children: together with their daily labors,
+<pb facs="tcp:153991:3"/> and sweat of their brows which they omit, its known to you all, whose tenants are the like, we may go supperlesse to bed. The City of <hi>London,</hi> nay and all Cities with corporations of the kingdome: without this sweat of us, they can no way subsist, and to proceed unto a further, and a deeper reason, that when our six dais of commanded labour, are with toile and pains overcome, there is a seventh day com<g ref="char:EOLhyphen"/>manded by Almighty God: wherein we our man-servants, our maid servants, and stran<g ref="char:EOLhyphen"/>gers that are within our Gates; nay our very beasts must cease from labour: All which we think each of us here have done, and at our first summons to the Church thither, have quietly, and as wee thought religiously relieved our selves. To serve in one day him, who gave us six dais for to serve our selves.</p>
+            <p>Where untill now, we thought in many things we had done well, guided by out Par<g ref="char:EOLhyphen"/>son, preswaded by our Vicar, or overruled by the Bishop of our Drocesse, either our purses or our consciences suffered shipwrack: and now to give a bolder word, after the great il<g ref="char:EOLhyphen"/>lumination of your <hi>Parliament,</hi> we may just<g ref="char:EOLhyphen"/>ly and with one mouth pronounce, that we in both have suffered; that is, both in purse and conscience.</p>
+            <p>But since already you have taken away the one, which is too much intollerable tyrany of the high Commission, so likewise, you would
+<pb facs="tcp:153991:3"/> also be pleased to take away the handmaids of that great Curtizan,
+<q>Leges Civilis quae Civilitatis, Speciem prae se prefert.</q>
+            </p>
+            <p>And reduce our ancient and primitive, and most perfect Religion, to bee attended on by neither Archbishops, Bishops, Deans, Pre<g ref="char:EOLhyphen"/>bends, or such suckers of the Lords vine and vineyards: unlesse they will honestly, laying aside treason and ambition, and plainly lay<g ref="char:EOLhyphen"/>ing aside all luxury and idlenesse, truly, plain<g ref="char:EOLhyphen"/>ly, as it behoves them to preach to their mise<g ref="char:EOLhyphen"/>rable and distracted flock, which you see here are forced from their sheepfolds, the plain and reall way to heaven and salvation.</p>
+            <p>In this joint of our Religion we appear to you, like the great Cathedrall of the City St. <hi>Pauls</hi> Church, as the first object before wee come at it, knowing well that we must first serve God before we serve our selves.</p>
+            <p>In the next clause, as true lovers of our Country, protesting before hand as a full satisfaction to all Objections, we come not hither invited or incited, onely fearfull our slownesse might have bred your blame: Or, you would be pleased ('tis all we ask) nor to attribute more to the men of <hi>Essex</hi> or <hi>Buckinghamshire</hi> than to our selves, who now have and will neglect those fore-named Fa<g ref="char:EOLhyphen"/>milies
+<pb facs="tcp:153991:4"/> Estates, Lives and Fortunes, and hi<g ref="char:EOLhyphen"/>ther come to the protection of your great Capitall; assuring you, although we do ap<g ref="char:EOLhyphen"/>pear in coats and cudgels, we have Armour, which we will manage with as strong armes and hearts, as the best of your Artillery. One slighter cause remains, which be pleased to peruse, and we have done: the rumour being generally spread amongst us, and verified by good men of our shire, that Sir <hi>Thomas Da<g ref="char:EOLhyphen"/>kers</hi> (was unfortunately slain.) Whom by the vertue of his Majesties Writ, we chose Knight of our Shire, was amongst a Popish tumult slain, which drew the minor part of us hi<g ref="char:EOLhyphen"/>ther: One indeed well-beloved amongst us, and as we hope, throughout the whole king<g ref="char:EOLhyphen"/>dome, whom since we hear alive, God with you all protect, and guard your Honourable Assembly.</p>
+            <closer>So humbly prayeth <hi>The men of Hartfordshire,</hi> Your most humble Petitioners.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153991:4"/>
+            <pb facs="tcp:153991:5"/>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
